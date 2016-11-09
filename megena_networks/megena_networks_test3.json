@@ -3,7 +3,7 @@
   "generated_by" : "cytoscape-3.2.1",
   "target_cytoscapejs_version" : "~2.1",
   "data" : {
-    "shared_name" : "megena_diffcor_25_25_filt_05_sig.txt(2)",
+    "shared_name" : "gain_of_correlation_tnbc_network",
     "name" : "gain_of_correlation_tnbc_network",
     "SUID" : 27342,
     "__Annotations" : [ "" ],
